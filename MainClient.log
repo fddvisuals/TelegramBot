@@ -1,0 +1,1612 @@
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.167.51:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.167.51:443/TcpFull complete!
+INFO:telethon.client.users:Phone migrated to 1
+INFO:telethon.client.telegrambaseclient:Reconnecting to new data center 1
+INFO:telethon.network.mtprotosender:Disconnecting from 149.154.167.51:443/TcpFull...
+INFO:telethon.network.mtprotosender:Disconnection from 149.154.167.51:443/TcpFull complete!
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Server replied with a wrong session ID
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Server replied with a wrong session ID
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Server replied with a wrong session ID
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270202730349153281, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270202736238262273, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270202762581039105, ignoring
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270207064936215553, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270207217812570113, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270207353601352705, ignoring
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270225102982241281, ignoring
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.connection.connection:<class 'ConnectionResetError'> during disconnect: [Errno 54] Connection reset by peer
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.connection.connection:<class 'ConnectionResetError'> during disconnect: [Errno 54] Connection reset by peer
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270228265198267393, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270228289853121537, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270228294659213313, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270228436774194177, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270228469490156545, ignoring
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 112 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 111 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 110 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 109 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 108 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 107 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 106 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 105 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 104 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 103 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 102 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 102 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 72 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 72 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 71 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 71 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 71 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 71 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 70 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 70 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 70 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 69 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 69 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 68 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 68 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 68 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 67 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 67 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 66 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 66 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 66 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 66 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 65 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 65 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 65 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 64 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 64 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 63 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 63 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 63 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 63 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 62 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 62 seconds is required (caused by CheckChatInviteRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 127 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 127 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 126 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 126 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 126 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 125 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 125 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 124 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 124 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 124 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 123 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 123 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 2716 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 2716 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.connection.connection:<class 'ConnectionResetError'> during disconnect: [Errno 54] Connection reset by peer
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.connection.connection:<class 'ConnectionResetError'> during disconnect: [Errno 54] Connection reset by peer
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270386217567339521, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270386256226920449, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270386309208359937, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270386313948056577, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270386449925145601, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270386452834552833, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270386874363208705, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270387219853283329, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270387247801799681, ignoring
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270387247859731457, ignoring
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Too many messages had to be ignored consecutively
+WARNING:telethon.network.mtprotostate:Server sent a very old message with ID 7270387623348936705, ignoring
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Too many messages had to be ignored consecutively
+ERROR:root:A wait of 1197 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1197 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 921 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 920 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 810 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 810 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:[Errno 2] No such file or directory: 'data/channels.json'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 510 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 509 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 403 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 403 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 133 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.users:Sleeping early for 40s (0:00:40) on CheckChatInviteRequest flood wait
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:[Errno 2] No such file or directory: 'python'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:[Errno 2] No such file or directory: 'python'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:[Errno 2] No such file or directory: 'python'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 881 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 881 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 880 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 880 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 880 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 778 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 764 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 764 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 678 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 677 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 677 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 676 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 421 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 407 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 406 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 390 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 323 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 323 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 322 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 322 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 67 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 53s (0:00:53) on CheckChatInviteRequest flood wait
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 1322 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 1265 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1255 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1255 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1255 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 1122 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 1115 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1114 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1052 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1044 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1043 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 763 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 754 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 754 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 701 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 694 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 694 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 416 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 407 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 407 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 345 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 337 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 337 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.users:Sleeping early for 59s (0:00:59) on CheckChatInviteRequest flood wait
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:A wait of 76 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:telethon.client.updates:Got difference for account updates
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 300 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 221 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 212 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 212 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for channel 1951799535 updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 1349 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1337 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 1280 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1132 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1020 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1012 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 976 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 955 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 915 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 765 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 638 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 601 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 462 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 462 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 423 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 313 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 313 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 312 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 295 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 153 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 40s (0:00:40) on CheckChatInviteRequest flood wait
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Server replied with a wrong session ID
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Server replied with a wrong session ID
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 77 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 47s (0:00:47) on CheckChatInviteRequest flood wait
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 1402 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1387 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1369 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1362 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1301 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1301 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1300 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1276 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1267 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 1250 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1108 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1107 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1088 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1076 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1007 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1007 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1007 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 1006 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 990 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 990 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 990 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 980 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 961 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 813 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 812 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 770 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 704 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 704 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 704 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 703 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 685 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 632 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 595 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 497 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 484 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 379 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 378 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 372 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 340 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 323 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 180 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 141 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 66 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 56s (0:00:56) on CheckChatInviteRequest flood wait
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 79 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 19s (0:00:19) on CheckChatInviteRequest flood wait
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for channel 1788579418 updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+WARNING:telethon.network.mtprotosender:Attempt 1 at connecting failed: TimeoutError: 
+WARNING:telethon.network.mtprotosender:Attempt 2 at connecting failed: TimeoutError: 
+WARNING:telethon.network.mtprotosender:Attempt 3 at connecting failed: TimeoutError: 
+WARNING:telethon.network.mtprotosender:Attempt 4 at connecting failed: TimeoutError: 
+WARNING:telethon.network.mtprotosender:Attempt 5 at connecting failed: TimeoutError: 
+WARNING:telethon.network.mtprotosender:Attempt 6 at connecting failed: TimeoutError: 
+INFO:telethon.network.mtprotosender:Failed reconnection attempt 1 with ConnectionError
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+WARNING:telethon.network.mtprotosender:Attempt 1 at connecting failed: TimeoutError: 
+WARNING:telethon.network.mtprotosender:Attempt 2 at connecting failed: TimeoutError: 
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 949 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 931 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 931 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 782 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 666 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 658 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 617 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 597 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 436 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 406 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 313 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 299 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 282 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 281 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 266 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 95 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:root:Message id 80958 is Sponsored
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 170 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 170 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 114 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 114 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 106 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 94 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 43s (0:00:43) on CheckChatInviteRequest flood wait
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 416 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 416 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 415 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 398 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 358 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 261 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 261 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 145 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 118 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 86 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 73 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 188 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 48s (0:00:48) on CheckChatInviteRequest flood wait
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 343 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 343 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 302 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 302 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 302 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 301 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 280 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 280 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 138 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 137 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 32s (0:00:32) on CheckChatInviteRequest flood wait
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.network.connection.connection:The server closed the connection
+INFO:telethon.network.mtprotosender:Connection closed while receiving data
+INFO:telethon.network.mtprotosender:Closing current connection to begin reconnect...
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+WARNING:telethon.network.mtprotosender:Security error while unpacking a received message: Server replied with a wrong session ID
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 576 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 476 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 449 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 442 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 424 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 340 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 330 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 300 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 300 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 208 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 188 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 188 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 34s (0:00:34) on CheckChatInviteRequest flood wait
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 206 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.users:Sleeping early for 59s (0:00:59) on CheckChatInviteRequest flood wait
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+INFO:telethon.client.updates:Got difference for channel 1951799535 updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.users:Sleeping for 27s (0:00:27) on CheckChatInviteRequest flood wait
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for channel 1951799535 updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:You can't forward messages from a protected chat (caused by ForwardMessagesRequest)
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:telethon.client.updates:Got difference for account updates
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 219 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 89 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+INFO:root:Start
+INFO:telethon.network.mtprotosender:Connecting to 149.154.175.54:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.175.54:443/TcpFull complete!
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
+ERROR:root:A wait of 949 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 939 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 931 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 902 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:A wait of 872 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 709 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 643 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 515 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 514 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 509 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 481 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 451 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 353 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 347 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 315 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 263 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 263 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 207 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 181 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 150 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 134 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 102 seconds is required (caused by CheckChatInviteRequest)
+ERROR:root:A wait of 66 seconds is required (caused by CheckChatInviteRequest)
+INFO:telethon.client.updates:Got difference for account updates
+ERROR:root:__init__() got an unexpected keyword argument 'grouped'
